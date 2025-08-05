@@ -6,4 +6,4 @@ This repo contains a research project I completed for EDUC1765: Policy and Progr
 
 The completed paper can be found in [EDUC1765_Final Paper](</Telesecundaria Project/EDUC1765_ Final Paper.pdf>) . 
 
-The files [Table_1](</Telesecundaria Project/Table_1.do>), [Table_2](</Telesecundaria Project/Table_2.do>), and [MTE](</Telesecundaria Project/MTE.do>), contain Stata code for their respective figures in the paper. 
+The files [Table_1](</Telesecundaria Project/Table_1.do>), [Table_2](</Telesecundaria Project/Table_2.do>), and [MTE](</Telesecundaria Project/MTE.do>), contain Stata code for their respective figures in the paper. Table 1 and Table 2 contain descriptive statistics and MTE contains marginal treatment effect analysis. 
