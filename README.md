@@ -1,5 +1,6 @@
+**Note for job applications:** I was required to complete this project in Stata instead of Python, which I would typically code in. However, I chose to submit this project because I find it to be particularly interesting and am proud of the result. I completed this project by myself under the guidance of Professor Pierre De Galbert. If you would like to see Python code of mine, please check out my public repo called "Data Science Group Project". 
+
 ## About
-**Note for job applications:** I was required to complete this project in Stata instead of Python, which I would typically code in. However, I chose to submit this project because I completed it solo and particularly enjoyed the topic and analysis in comparison to other projects I have done. If you would like to see Python code of mine, please check out my public repo called "Data Science Group Project". 
 
 This repo contains a research project I completed for EDUC1765: Policy and Program Evaluation at Brown University, taught by Professor Pierre De Galbert. The assignment was to replicate an existing paper and extend it to build a new argument that investigated the same issue from a new angle.
 
