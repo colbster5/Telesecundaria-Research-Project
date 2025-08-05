@@ -1,0 +1,4 @@
+## About
+This repo contains a research project I completed for EDUC1765: Policy and Program Evaluation at Brown University, taught by Professor Pierre De Galbert. The assignment was to replicate an existing paper and extend it to build a new argument that investigated the same issue from a new angle.
+
+The completed paper can be found in 
