@@ -1,4 +1,4 @@
-**Note for job applications:** I was required to complete this project in Stata instead of Python, which I would typically code in. However, I chose to submit this project because I find it to be particularly interesting and am proud of the result. I completed this project by myself under the guidance of Professor Pierre De Galbert. If you would like to see a Python project, please check out my public repo called "Data Science Group Project". 
+**Note for job applications:** I was required to complete this project in Stata instead of Python, which I would typically code in. However, I chose to submit this project because I find it to be particularly interesting and am proud of the result. I completed this project by myself under the guidance of Professor Pierre De Galbert. If you would like to see a Python project, please check out my public repo called ["Data Science Group Project"](https://github.com/colbster5/Data-Science-Group-Project). 
 
 ## About
 
